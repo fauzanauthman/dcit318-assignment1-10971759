@@ -1,0 +1,15 @@
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\bin\Debug\net8.0\dcit318-assignment1-10971759.exe
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\bin\Debug\net8.0\dcit318-assignment1-10971759.deps.json
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\bin\Debug\net8.0\dcit318-assignment1-10971759.runtimeconfig.json
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\bin\Debug\net8.0\dcit318-assignment1-10971759.dll
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\bin\Debug\net8.0\dcit318-assignment1-10971759.pdb
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.AssemblyInfoInputs.cache
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.AssemblyInfo.cs
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.sourcelink.json
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.dll
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\refint\dcit318-assignment1-10971759.dll
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.pdb
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\dcit318-assignment1-10971759.genruntimeconfig.cache
+C:\Users\fauza\Documents\GitHub\dcit318-assignment1-10971759\obj\Debug\net8.0\ref\dcit318-assignment1-10971759.dll
