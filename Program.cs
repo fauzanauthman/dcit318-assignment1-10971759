@@ -1,50 +1,50 @@
 ﻿using System;
 
-public class TriangleTypeIdentifier
+public class MultipurposeCalculator
 {
   public static void Main(string[] args)
   {
-    float side1, side2, side3;
-
     while (true)
     {
-      try
+      int choice = GetMenuChoice();
+      
+      if (choice == 1)
       {
-        Console.Write("Enter the length of side 1: ");
-        side1 = float.Parse(Console.ReadLine());
-        Console.Write("Enter the length of side 2: ");
-        side2 = float.Parse(Console.ReadLine());
-        Console.Write("Enter the length of side 3: ");
-        side3 = float.Parse(Console.ReadLine());
-        if (side1 > 0 && side2 > 0 && side3 > 0)
-        {
-          break;
-        }
-        else
-        {
-          Console.WriteLine("Invalid side length. Please enter positive numbers.");
-        }
+        IdentifyTriangleType();
       }
-      catch (FormatException)
+      else if (choice == 2)
       {
-        Console.WriteLine("Invalid input. Please enter numbers for side lengths.");
+        CalculateGrade();
+      }
+      else if (choice == 3)
+      {
+        // Add more options here if desired
+        Console.WriteLine("This option is not yet implemented.");
+      }
+      else
+      {
+        Console.WriteLine("Invalid choice. Please enter a number between 1 and 3.");
       }
     }
+  }
 
-    string triangleType;
-    if (side1 == side2 && side1 == side3)
-    {
-      triangleType = "Equilateral";
-    }
-    else if (side1 == side2 || side1 == side3 || side2 == side3)
-    {
-      triangleType = "Isosceles";
-    }
-    else
-    {
-      triangleType = "Scalene";
-    }
+  public static int GetMenuChoice()
+  {
+    Console.WriteLine("\nMenu:");
+    Console.WriteLine("1. Triangle Type Identifier");
+    Console.WriteLine("2. Grade Calculator");
+    Console.WriteLine("3. (Optional) Add more options here");
+    Console.Write("Enter your choice: ");
+    return int.Parse(Console.ReadLine());
+  }
 
-    Console.WriteLine($"The triangle is: {triangleType}");
+  public static void IdentifyTriangleType()
+  {
+    // ... (existing code for identifying triangle type)
+  }
+
+  public static void CalculateGrade()
+  {
+    // ... (existing code for calculating grade)
   }
 }
